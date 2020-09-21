@@ -1,3 +1,5 @@
 code runner 설치 후
 설정->workspace(작업영역)->code runner run in 검색하면 run in Terminal나옴
 그럼 그거 체크박스에 체크해준다
+그런 다음부터는 오른쪽 위에 재생버튼이 생김
+그거 클릭시 터미널로 돌릴 수 있게 된다
