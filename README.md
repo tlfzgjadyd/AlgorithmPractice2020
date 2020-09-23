@@ -1,7 +1,6 @@
 # AlgorithmPractice2020
 
-📚 <Encyclopedia> <br/>
-  
+📚 <encyclopedia>
   
 🏆 <solve_problems>
 
